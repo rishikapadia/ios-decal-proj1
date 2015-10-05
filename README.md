@@ -38,4 +38,4 @@ In Project 1, you will build your own Utility app - a To-Do List. As you would e
 
 ## Illustrated with Pictures
 
-![1.png]
+![1][images/1.png]
