@@ -38,17 +38,18 @@ In Project 1, you will build your own Utility app - a To-Do List. As you would e
 
 ## Illustrated with Pictures
 
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/1.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/2.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/3.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/4.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/5.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/6.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/7.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/8.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/9.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/10.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/11.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/12.png])
-![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/13.png])
+![1](/images/1.png?raw=true])
+![2](/images/2.png?raw=true])
+![3](/images/3.png?raw=true])
+![4](/images/4.png?raw=true])
+![5](/images/5.png?raw=true])
+![6](/images/6.png?raw=true])
+![7](/images/7.png?raw=true])
+![8](/images/8.png?raw=true])
+![9](/images/9.png?raw=true])
+![10](/images/10.png?raw=true])
+![11](/images/11.png?raw=true])
+![12](/images/12.png?raw=true])
+![13](/images/13.png?raw=true])
+
 
