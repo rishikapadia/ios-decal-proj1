@@ -1,7 +1,7 @@
 # Project 1: To-Do List App
 
 ## Due
-Wednesday, October 7 at 11:59 PM
+Monday, October 12 at 11:59 PM
 
 ## Description
 In Project 1, you will build your own Utility app - a To-Do List. As you would expect, the app is simple. You are able to view your existing tasks, mark a task as completed, delete a task, add a new task, and view stats about how many tasks you have completed in 24 hours. As long as your application conforms every one of our required criteria (see below), you can add whatever additional features, views, UI, etc. you want.
