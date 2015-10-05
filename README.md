@@ -52,4 +52,3 @@ In Project 1, you will build your own Utility app - a To-Do List. As you would e
 ![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/12.png])
 ![](https://github.com/rishikapadia/ios-decal-proj1/blob/master/images/13.png])
 
-
